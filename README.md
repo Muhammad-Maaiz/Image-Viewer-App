@@ -1,3 +1,4 @@
+![logo](https://github.com/Muhammad-Maaiz/Image-Viewer-App/assets/157501398/df528069-61ae-4e42-8bfd-c7b3317f3b92)
 
 <h1>Image Viewer App</h1>
 
