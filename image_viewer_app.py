@@ -46,6 +46,7 @@ colour = "light green"
 root = Tk()
 root.title("Image Viewer App")
 root.geometry("350x430")
+root.resizable(width=False,height=False)
 root.configure(bg=colour)
 
 # Create a frame to hold label, buttons, images, and status bar
